@@ -1,0 +1,1 @@
+EXE = $(FOAM_APPBIN)/3_phase_smoother
