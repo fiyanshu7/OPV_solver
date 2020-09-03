@@ -1,0 +1,3 @@
+myElectrostaticFoam_2_times_20.48_5e-5_dx_1.C
+
+EXE = $(FOAM_APPBIN)/myElectrostaticFoam_2_times_20.48_5e-5_dx_1
